@@ -1,0 +1,6 @@
+@LoginOtpGmailImplementation_HostAddress = http://localhost:5288
+
+GET {{LoginOtpGmailImplementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
